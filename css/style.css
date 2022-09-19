@@ -1,0 +1,232 @@
+:root{
+ --f7-theme-color:#1f2803;
+ --f7-navbar-bg-color: #1f2803; /*navbar*/
+ --f7-navbar-text-color:#fff;
+--f7-navbar-link-color: #fff;
+ --f7-bars-bg-color:#1f2803;/*toolbar*/
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+
+body {
+	
+	font-size: 10px;
+	
+}
+
+.panel-left{
+	background-color: #fff;
+}
+.panel-left .block-title{
+	font-size: 13px;
+	text-transform: uppercase;
+	color: #888;
+}
+.logoblack {
+	margin-left: 70px;
+	
+}
+.Mainmenu {
+	
+	background-image:url("../img/introCDV.png");
+	background-position: center;
+	background-size: cover;
+	padding: 250px 180px;
+	
+	 }
+
+.Menu {
+	
+	background-image:url("../img/BOTONMENU.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+.Galeria {
+	
+	background-image:url("../img/MMGaleria.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+
+.Eventos {
+	
+	background-image:url("../img/MMEventos.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+.promos {
+	
+	background-image:url("../img/MMPromos.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+.Reviews {
+	
+	background-image:url("../img/MMReviews.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+
+.Historia {
+	
+	background-image:url("../img/MMHistoria.png");
+	background-position: center;
+	background-size: cover;
+	padding: 100px;
+	
+	 }
+.logonav{
+ margin-left:20px;
+	
+	
+}
+#app h2{
+	font-size: 20px;
+	
+	
+}
+.menutext {
+	
+	font-size: 10px;
+}
+
+.img-fluid {
+	
+	padding-left: 90px;
+}
+
+.imgleft {
+	
+	padding-left: 15px;
+}
+
+.galeriatext {
+	
+	font-size: 15px;
+	text-align: center;
+}
+
+.promoimg {
+	
+	margin-left: 20px;
+	
+}
+
+.promostext {
+	
+	font-size: 15px;
+	text-align: center;
+}
+.historiaimg {
+
+	margin-left: 125px;
+}
+
+.historiatext {
+	
+	
+	font-size: 15px;
+	text-align: center;
+	
+}
+
+.imgreview {
+	
+	margin-left: 20px;
+	
+}
+
+.item-title {
+	
+	color:ffff;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 20px;
+	text-align: center;
+
+	
+	
+}
+
+.ubicacioncdv {
+	
+	padding-left: 20px;
+	
+}
+
+.textubicacion {
+	
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+.PizzasD1 {
+	padding: 100px;
+	background-image:url("../img/Delpizza.png");
+	background-position: center;
+	
+	
+}
+.PizzasD2 {
+	padding: 100px;
+	background-image:url("../img/delpastas.png");
+	background-position: center;
+	
+	
+}
+
+.PizzasD3 {
+	padding: 100px;
+	background-image:url("../img/delpostres.png");
+	background-position: center;
+	
+	
+}
+.PizzasD4 {
+	padding: 100px;
+	background-image:url("../img/delbebidas.png");
+	background-position: center;
+	
+	
+}
+
+.textdelivery {
+	font-size: 20px;
+	text-align: center;
+	
+}
+.ABUintro {
+	font-size: 15px;
+	text-align: center;
+	
+}
+
+.ABUnames {
+	font-size: 20px;
+	text-align: center;
+}
+
+.ABUinfo {
+	font-size: 15px;
+	text-align: center;
+	
+}
+
+.GraciasPO {
+	
+	padding: 50 80px;
+	background-image:url("../img/CDVgracias.png");
+	background-position: center;
+	
+}
